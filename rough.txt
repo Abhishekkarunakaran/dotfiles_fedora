@@ -1,0 +1,4 @@
+Rough_data
+if [ -f ~/.bashrc ]; then
+    . ~/.bashrc
+fi
